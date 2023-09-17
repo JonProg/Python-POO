@@ -1,0 +1,4 @@
+Success: xiaomi_6 está ligado (Smartphone)
+Success: iPhone_14 está ligado (Smartphone)
+Error: deu errado cara (-_-*) (LogFileMixin)
+Success: yes yes yes (*-*) (LogFileMixin)
